@@ -62,7 +62,7 @@ header ul li a:hover {
 	align-items: center;
 }
 .banner:after {
-	content: ;
+	content: '';
 	display: block;
 	position: absolute;
 	top: 0;
